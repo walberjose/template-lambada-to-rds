@@ -5,3 +5,5 @@ npm init -y
 npm install pg
 
 # Create a file index.js to include the AWS Lambda code function
+
+# Finally zip all files an upload to the AWS Lambda
